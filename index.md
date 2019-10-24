@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## IMD 工业设计
 
 You can use the [editor on GitHub](https://github.com/IMD-DESIGN/DESIGN/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
